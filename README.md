@@ -57,14 +57,12 @@ Download this github (Scroll to end)  and download your specific windows or linu
 Extract this and then goto bin folder then copy the protoc.exe and paste it into step 1 downloaded <b>models/research  </b>folder
 <br>
 
-5.     Dive Inside The tensor flow model downloaded in step 1
+5.   Change Forlder and move Inside The tensor flow model downloaded in step 1
 
     cd Folder_name/models/research/
 <br>
 
-6.    Compile the protoc.
-
-Just downloaded 
+6.    Compile the protoc downloaded in Step 4
 
     protoc object_detection/protos/*.proto --python_out=.
 <br>
