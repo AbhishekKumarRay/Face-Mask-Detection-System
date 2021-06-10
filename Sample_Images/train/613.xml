@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Incorrect mask (501-782)</folder>
+	<filename>613.jpg</filename>
+	<path>C:\Users\adarshray\Downloads\Mask\Mask\Incorrect mask (501-782)\613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>291</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>32</ymin>
+			<xmax>66</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>50</ymin>
+			<xmax>277</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

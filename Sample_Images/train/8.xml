@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with mask</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\ADMIN\Desktop\with mask\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>342</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>87</ymin>
+			<xmax>280</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
