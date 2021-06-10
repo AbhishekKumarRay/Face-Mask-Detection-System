@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with mask</folder>
+	<filename>bhj.jpg</filename>
+	<path>D:\project\Face Mask Detection System\Mask\with mask\bhj.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>276</ymin>
+			<xmax>376</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

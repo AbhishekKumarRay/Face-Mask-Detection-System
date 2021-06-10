@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without mask</folder>
+	<filename>317.jpg</filename>
+	<path>C:\Users\ADMIN\Desktop\without mask\317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>21</ymin>
+			<xmax>146</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>
