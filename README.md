@@ -55,7 +55,7 @@ Download this github (Scroll to end)  and download your specific windows or linu
     https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0
 
 Extract this and then goto bin folder then copy the protoc.exe and paste it into step 1 downloaded <b>models/research  </b>folder
-<br>
+<br><br>
 
 5.   Change Forlder and move Inside The tensor flow model downloaded in step 1
 
