@@ -1,7 +1,7 @@
 # Face-Mask-Detection-System
 
 <h2>Abstract</h2>
-As we all know, Covid-19 pandemic is one of the most life-changing event ever happened in the history. To recover losses caused by this global pandemic, we have come across various stages of reopening of all public places and institutions. In this whole evolution, Face masks have become a vital element of our daily lives.
+As we all know, Covid-19 pandemic is one of the most life-changing event ever happened in the history of mankind. To recover losses caused by this global pandemic, we have come across various stages of reopening of all public places and institutions. In this whole evolution, Face masks have become a vital element of our daily lives.
 <br>Considering the importance of the Face Mask during the pandemic time, when the COVID-19 cases were increasing rapidly, I decided to make this project. This project was developed to monitor whether people are wearing face mask and following the basic safety principle or not. It aims to identify and mark down such individual who are not wearing a mask and alert the person sitting behind the camera. It can also easily filter out the individual who are without a face mask from a group of people. It could be implemented with live video surveillance camera to monitor the activity as well as on the stored image. The main motive was to implement it at densely populated areas where the chances of spread of COVID-19 cases were relatively higher.
 <br>
 
